@@ -3,7 +3,7 @@
 - *This countdown is created with HTML, CSS and Vanilla JavaScript.*
 - *Counting till Diwali 2027.*
 
-- *[Tap Here to Visit](https://fervent-franklin-6c29b2.netlify.app/).*
+- *[Tap Here to Visit](https://61f6346988612232f9fb0a23--fervent-franklin-6c29b2.netlify.app/).*
 
 #javascript-mini-project #countdown
 
